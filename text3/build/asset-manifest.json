@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1c73ea90.chunk.css",
+    "main.js": "./static/js/main.a4cead36.chunk.js",
+    "main.js.map": "./static/js/main.a4cead36.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c115c26d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c115c26d.js.map",
+    "static/css/2.6f60e7f3.chunk.css": "./static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.19f56487.chunk.js": "./static/js/2.19f56487.chunk.js",
+    "static/js/2.19f56487.chunk.js.map": "./static/js/2.19f56487.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.6c8788f68f4609e17ffdf9aa3480f00c.js": "./precache-manifest.6c8788f68f4609e17ffdf9aa3480f00c.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.6f60e7f3.chunk.css.map": "./static/css/2.6f60e7f3.chunk.css.map",
+    "static/css/main.1c73ea90.chunk.css.map": "./static/css/main.1c73ea90.chunk.css.map",
+    "static/media/home-footer.jpg": "./static/media/home-footer.3a4f9505.jpg",
+    "static/media/homeimg1.jpg": "./static/media/homeimg1.4a2dd7d8.jpg",
+    "static/media/homeimg2.jpg": "./static/media/homeimg2.db01f2ba.jpg",
+    "static/media/homeimg3.jpg": "./static/media/homeimg3.0d3f3097.jpg",
+    "static/media/inspiration11.jpg": "./static/media/inspiration11.4fa861f2.jpg",
+    "static/media/inspiration2.jpg": "./static/media/inspiration2.066394e3.jpg",
+    "static/media/inspiration3.jpg": "./static/media/inspiration3.0bf63c76.jpg",
+    "static/media/inspiration4.jpg": "./static/media/inspiration4.4cd9168e.jpg",
+    "static/media/lunbo1.jpg": "./static/media/lunbo1.0a45b999.jpg",
+    "static/media/lunbo2.jpg": "./static/media/lunbo2.2acda7ca.jpg",
+    "static/media/mall2.jpg": "./static/media/mall2.ce1fec37.jpg",
+    "static/media/mall3.jpg": "./static/media/mall3.282cf563.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c115c26d.js",
+    "static/css/2.6f60e7f3.chunk.css",
+    "static/js/2.19f56487.chunk.js",
+    "static/css/main.1c73ea90.chunk.css",
+    "static/js/main.a4cead36.chunk.js"
+  ]
+}
